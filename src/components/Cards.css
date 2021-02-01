@@ -1,0 +1,28 @@
+.head{
+	margin-left: 80px;
+	margin-right: 80px;
+	
+}
+
+h2{
+   font-family: 'Montserrat';
+   font-size: 24px;
+   font-weight: bolder;
+   color: black;
+}
+
+#seework>a{
+	position: relative;
+	float: right;
+	margin-bottom: 3px;
+	font-family: 'Montserrat';
+	color: black;
+	font-weight: bold;
+
+}
+
+#seework>a:hover{
+	border-bottom: 2px solid black;
+  color: black;
+
+}
